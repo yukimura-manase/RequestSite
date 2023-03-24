@@ -1,0 +1,11 @@
+{
+  "input_config_list": [
+    {
+      "input_id": 1,
+      "input_type": "checkbox",
+      "description": "次の選択肢から当てはまるものをお選びください(複数選択可)",
+      "required_flag": true,
+      "option_list": [ "仕事で活用するため", "社内研修での活用", "エンジニア転職のため", "スキルアップのため",  "趣味", "その他" ]
+    }
+  ]
+}

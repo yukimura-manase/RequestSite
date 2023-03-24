@@ -1,0 +1,12 @@
+{
+  "question_config_list": [
+    {
+      "question_id": 1,
+      "question_text": "エンジニア学習支援サービスの主な利用目的(複数選択可)",
+      "required_flag": true,
+      "section_id": 1,
+      "input_id": [1, 2],
+      "sort_order": 1
+    }
+  ]
+}

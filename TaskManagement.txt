@@ -1,0 +1,44 @@
+
+< 2023/02/18 Task >
+
+[ FrontEnd-Develop ]
+
+  1. 基本的なSetUp・環境構築 => Clear🔥
+
+  2. Front側で取り扱うデータ構造を定義する
+
+  3. Redux-StoreにTestデータを定義
+
+  4. TopページでStoreからデータを取得して、画面に表示する
+
+
+< 2023/03/02 Task >
+
+  1. Front側で取り扱うデータ構造を定義する => Clear🔥
+
+  2. Redux-StoreにTestデータを定義 => Clear🔥
+
+  3. TopページでStoreからデータを取得して、画面に表示する
+
+
+< 2023/03/03 Task >
+
+  1. TopページでStoreからデータを取得して、画面に表示する => Clear🔥
+
+  2. Reactのコンポーネント志向を活用する
+
+
+
+< 2023/03/09 Task >
+
+  1. 入力フォームを Component化する！
+
+
+
+
+
+
+
+
+
+
